@@ -3,4 +3,6 @@
 (2 * 3)^2
 2/2
 100/2
+10/2
+
 #adding some more to file
